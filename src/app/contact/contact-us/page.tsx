@@ -1,6 +1,4 @@
-import styles from"../contact-us/contact-us.module.css";
-import Link from "next/link";
-
+import React from 'react'
 
 const ContactUsPage = () => {
   return (

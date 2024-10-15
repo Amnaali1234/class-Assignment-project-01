@@ -1,5 +1,4 @@
-import styles from "../web-development/web-development.module.css";
-import Link from "next/link";
+import React from 'react'
 
 
 const webDevelopment = () => {
